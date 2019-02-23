@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Погода в Самаре</string>
+    <string name="notification">Соединение...</string>
+    <string name="nothing">...</string>
+    <string name="wind">Ветер:</string>
+    <string name="pressure">Давление:</string>
+    <string name="relwet">Влажность:</string>
+    <string name="zero"></string>
+</resources>
